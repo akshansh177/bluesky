@@ -1,2 +1,2 @@
 # bluesky
-a basic website crested by me :)
+a basic website created by me :)
